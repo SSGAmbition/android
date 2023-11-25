@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995320058277",
+    "project_id": "fir-flea-market",
+    "storage_bucket": "fir-flea-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995320058277:android:1af907566b79cf3c0e184c",
+        "android_client_info": {
+          "package_name": "com.yy4787.firebasefleemarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTactynhQeRtdepj78K8xdAT-w1boWhKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
