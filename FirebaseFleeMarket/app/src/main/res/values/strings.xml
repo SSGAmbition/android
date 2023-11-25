@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Flee Market</string>
+
+    <string name="post_count">%d개의 판매글이 있습니다</string>
+</resources>
